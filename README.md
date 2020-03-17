@@ -1,6 +1,6 @@
 # README
 
-JustCars API service
+CarsJust API service
 You can use docker / docker-composer to init api
 ```
 docker-compose build
